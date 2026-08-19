@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-19'
 papers:
   7N8SUDMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -38,13 +38,21 @@ papers:
     title: Chosen-ciphertext secure multi-identity and multi-attribute pure FHE
     year: '2020'
   7N8SUDMAAAAJ:KlAtU1dfN6UC:
-    citations: 37
+    citations: 39
     title: Registered FE beyond predicates:(attribute-based) linear functions and more
     year: '2024'
   7N8SUDMAAAAJ:M3ejUd6NZC8C:
     citations: 0
     title: Chosen Ciphertext Secure Functional Encryption from Constrained Witness
     year: '2021'
+  7N8SUDMAAAAJ:R3hNpaxXUhUC:
+    citations: 0
+    title: Simple Asymmetric Anamorphic Encryption and Signature Using Multi-message Extensions
+    year: '2026'
+  7N8SUDMAAAAJ:TQgYirikUcIC:
+    citations: 0
+    title: Certified Everlasting Secure Collusion-Resistant Functional Encryption, and More
+    year: '2026'
   7N8SUDMAAAAJ:Tyk-4Ss8FVUC:
     citations: 23
     title: Attribute-based access control for inner product functional encryption from LWE
@@ -66,7 +74,7 @@ papers:
     title: Registered Functional Encryption for Attribute-Weighted Sums with Access Control.
     year: '2025'
   7N8SUDMAAAAJ:Y0pCki6q_DkC:
-    citations: 1
+    citations: 2
     title: Chosen ciphertext secure functional encryption from constrained witness PRF
     year: '2021'
   7N8SUDMAAAAJ:YOwf2qJgpHMC:
@@ -114,7 +122,7 @@ papers:
     title: "Direct ink writing of Nickel\u2013Manganese\u2013Gallium-based Heusler alloys for porous magnetic regenerator"
     year: '2026'
   7N8SUDMAAAAJ:hqOjcs7Dif8C:
-    citations: 20
+    citations: 21
     title: Unbounded predicate inner product functional encryption from pairings
     year: '2023'
   7N8SUDMAAAAJ:kNdYIx-mwKoC:
@@ -126,7 +134,7 @@ papers:
     title: Compact Registered Functional Encryption for Attribute-Weighted Sums with Access Control
     year: '2026'
   7N8SUDMAAAAJ:mVmsd5A6BfQC:
-    citations: 4
+    citations: 5
     title: 'Registered functional encryption for pseudorandom functionalities from lattices: Registered ABE for unbounded depth circuits and turing machines, and more'
     year: '2025'
   7N8SUDMAAAAJ:qjMakFHDy7sC:
@@ -134,11 +142,11 @@ papers:
     title: Puncturable Witness Pseudorandom Functions and its Applications on Witness Encryption.
     year: '2020'
   7N8SUDMAAAAJ:qxL8FJ1GzNcC:
-    citations: 11
+    citations: 12
     title: Simple Public Key Anamorphic Encryption and Signature using Multi-Message Extensions.
     year: '2025'
   7N8SUDMAAAAJ:roLk4NBRz8UC:
-    citations: 16
+    citations: 20
     title: Certified everlasting secure collusion-resistant functional encryption, and more
     year: '2024'
   7N8SUDMAAAAJ:u-x6o8ySG0sC:
