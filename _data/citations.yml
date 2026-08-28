@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-28'
 papers:
   7N8SUDMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Chosen-ciphertext secure multi-identity and multi-attribute pure FHE
     year: '2020'
   7N8SUDMAAAAJ:KlAtU1dfN6UC:
-    citations: 39
+    citations: 40
     title: Registered FE beyond predicates:(attribute-based) linear functions and more
     year: '2024'
   7N8SUDMAAAAJ:M3ejUd6NZC8C:
@@ -47,7 +47,7 @@ papers:
     year: '2021'
   7N8SUDMAAAAJ:R3hNpaxXUhUC:
     citations: 0
-    title: Simple Asymmetric Anamorphic Encryption and Signature Using Multi-message Extensions
+    title: Simple asymmetric anamorphic encryption and signature using multi-message extensions
     year: '2026'
   7N8SUDMAAAAJ:TQgYirikUcIC:
     citations: 0
@@ -134,7 +134,7 @@ papers:
     title: Compact Registered Functional Encryption for Attribute-Weighted Sums with Access Control
     year: '2026'
   7N8SUDMAAAAJ:mVmsd5A6BfQC:
-    citations: 5
+    citations: 6
     title: 'Registered functional encryption for pseudorandom functionalities from lattices: Registered ABE for unbounded depth circuits and turing machines, and more'
     year: '2025'
   7N8SUDMAAAAJ:qjMakFHDy7sC:
@@ -142,7 +142,7 @@ papers:
     title: Puncturable Witness Pseudorandom Functions and its Applications on Witness Encryption.
     year: '2020'
   7N8SUDMAAAAJ:qxL8FJ1GzNcC:
-    citations: 12
+    citations: 13
     title: Simple Public Key Anamorphic Encryption and Signature using Multi-Message Extensions.
     year: '2025'
   7N8SUDMAAAAJ:roLk4NBRz8UC:
